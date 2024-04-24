@@ -1,5 +1,8 @@
 import random
 
+
+###
+### this is not the real game. just pure game logic
 # List of words
 word_list = ["python", "lasagna","japan","witcher"]
 # randomly choosen word, which should be guessed
